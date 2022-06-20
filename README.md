@@ -1,7 +1,8 @@
-
 <p align="left"> 
   Aplicativo para auxiliar retaguarda de parceiros. Objetivo é ajudar
   o garçon na rotina diaria com lançamentos simples nas comandar ou mesas.
+
+  Aplicativo baseado somente na comunicação de dados, e não guarda nenhum tipo de dados do usuario.
 </p>
 
 <p align="left">
@@ -26,4 +27,4 @@
   <a href="#" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=+5512997118039"/></a>
 
-</p>  
+</p>   
