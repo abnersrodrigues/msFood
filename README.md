@@ -1,32 +1,34 @@
-#  MsFood
-##aplicao para interação retaguarda
-<p align="left"> 
-  Aplicativo para auxiliar retaguarda de parceiros. Objetivo é ajudar
-  o garçon na rotina diaria com lançamentos simples nas comandar ou mesas.
+# msFood
 
-  Aplicativo baseado somente na comunicação de dados, e não guarda nenhum tipo de dados do usuario.
-</p>
+  Aplicativo de Lancamentos Comandas e Mesas
 
-<p align="left">
-  Linguagens: <strong>Desenvolvido no puro pascal.</strong>
-</p>
+## 🚀 Começando
 
-<p align="left">
-  Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
-</p>
+  Objetivo principal deste app é viabilizar e auxiliar usuário a uma interação com servidor de retaguarda. Com ele será possivel atraves do modulo de
+  restaurante, garçon realizar uma rotina simples do dia-dia como:
+    1) Abrir comandar ou mesas;
+    2) Imprimir conferencia;
+    3) Entre outros.
 
-<p align="left">
-  Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
+  Este app tem uma politica de uso simples e obetiva, sendo que todos dados são tratados na aplicaçõ de retaguarda, onde não é guardardo
+  nenhum tipo de dados do usuario.
 
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=abner.dos@gmail.com" /></a>
+### 📋 Pré-requisitos
 
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/abnersrodrigues" /></a>
+  Android 5.1 ou Mais
 
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=+5512997118039"/></a>
 
-</p>   
+### 🔧 Instalação
+
+  Para instalação necessario IP do Servidor. Esse numero é informado pela aplicação ou adiministrador do software de retaguarda
+
+Diga como essa etapa será:
+
+```
+  Exemplo de IP: 192.168.1.100:8888
+```
+
+
+## 📦 Desenvolvimento e ✒️ Autores
+
+  Desenvovido por M&S Consultoria em Tecnologia da Informação. Desenvolvedor principal Abner S. Rodrigues.
