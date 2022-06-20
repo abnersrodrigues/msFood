@@ -4,13 +4,13 @@
 
 ## 🚀 Começando
 
-  Objetivo principal deste app é viabilizar e auxiliar usuário a uma interação com servidor de retaguarda. Com ele será possivel atraves do modulo de
-  restaurante, garçon realizar uma rotina simples do dia-dia como:
+  Objetivo principal deste app é viabilizar e auxiliar usuário a uma interação com servidor de retaguarda. Com ele será possivel atraves do módulo de
+  restaurante, realizar uma rotina simples do dia-dia como:
     1) Abrir comandar ou mesas;
     2) Imprimir conferencia;
     3) Entre outros.
 
-  Este app tem uma politica de uso simples e obetiva, sendo que todos dados são tratados na aplicaçõ de retaguarda, onde não é guardardo
+  Este app tem uma politica de uso simples e obetiva, sendo que todos dados são tratados na aplicação de retaguarda, onde não é armazenado
   nenhum tipo de dados do usuario.
 
 ### 📋 Pré-requisitos
