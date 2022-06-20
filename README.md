@@ -29,6 +29,10 @@ Diga como essa etapa será:
 ```
 
 
-## 📦 Desenvolvimento e ✒️ Autores
+## 📦 Desenvolvimento 
 
-  Desenvovido por M&S Consultoria em Tecnologia da Informação. Desenvolvedor principal Abner S. Rodrigues.
+  Desenvovido por M&S Consultoria em Tecnologia da Informação.
+
+## ✒️ Autores
+
+  Projetado e Elaborado por Abner S. Rodrigues.
